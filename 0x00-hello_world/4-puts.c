@@ -1,7 +1,7 @@
-/**
+/*
  * puts.c
  * This program prints a string to standard output
- * File: My first ever code
+ * File: puts.c
  * Auth: Done by Posi
  */
 
@@ -10,6 +10,10 @@
 /**
  * main - Entry point of the code
  *
+ * Description: This is a description
+ *
+ * main - Prints "Programming is like building a
+ *		multilingualpuzzle"
  * Return: Always 0.
  */
 int main(void)
