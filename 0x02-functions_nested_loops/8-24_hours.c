@@ -3,7 +3,8 @@
 
 /**
  * jack-bauer - prints time
- * description: prints a list of time
+ *
+ * Description: prints a list of time
  * Return: Always 0.
  */
 void jack_bauer(void)
