@@ -2,12 +2,12 @@
 
 /**
  * _puts_recursion - prints out recursion
- * *s: string
+ * @s: string
  * Return: string
  */
 void _puts_recursion(char *s)
 {
-	if(*s == '\0')/* string is null characte i.e end*/
+	if (*s == '\0')/* string is null characte i.e end*/
 	{
 		putchar('\n');/* print a new line*/
 	}
