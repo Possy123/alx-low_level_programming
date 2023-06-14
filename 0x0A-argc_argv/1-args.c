@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#include <stdlib.h>
+#include "main.h"
 /**
  * main - the name of the function
  * @argc: it is used to count command line argument
