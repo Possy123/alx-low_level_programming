@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
+
 /**
  * main - the name of the function
  * @argc: it is used to count command line argument
@@ -10,6 +11,6 @@
 int main(int argc, char *argv[])
 {
 	(void)argv;
-	printf("%d\n", argc);
+	printf("%d\n", argc - 1);
 	return (0);
 }
