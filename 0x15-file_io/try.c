@@ -133,6 +133,6 @@ void print_elf_header_info(Elf64_Ehdr *header)
 			break;
 	}
 
-	printf("  Entry point address:               0x%llx\n", (long long)header->e_entry);
+	printf("  Entry point address:               0x%lx\n", (unsigned long)header->e_entry);
 }
 
